@@ -1,6 +1,5 @@
 # Fraud Transaction Detection System
 
-## Parkinson's Disease Classification:
 
 This repository contains machine learning models for classifying a transaction is fraud transaction or not. Models included are  Logistic Regrssion, Random Forest Classifier, MLP Classifier and XG Boost. The project demonstrates data preprocessing, feature selection, model training and performance evaluation.
 
